@@ -1,0 +1,10 @@
+{
+    "db": {
+      "host": "localhost",
+      "name": "cwp33",
+      "user": "root",
+      "password":
+        "root",
+      "dialect": "mysql"
+    }
+  }
